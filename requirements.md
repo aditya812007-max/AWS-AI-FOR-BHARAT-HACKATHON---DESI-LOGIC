@@ -1,11 +1,11 @@
-**Project Name:** KARL Simplifies  
+**Project Name:** Samjhao  
 **Team Name:** Desi Logic
 
-# Requirements Document: KARL Simplifies
+# Requirements Document: Samjhao
 
 ## Introduction
 
-KARL Simplifies is an AI-powered document companion designed to help students and parents in India understand complex academic and government documents. The system simplifies explanations in local languages (Hindi/Tamil), extracts eligibility criteria, determines user eligibility, and generates actionable plans with deadlines and required documents.
+Samjhao is an AI-powered document companion designed to help students and parents in India understand complex academic and government documents. The system simplifies explanations in local languages (Hindi/Tamil), extracts eligibility criteria, determines user eligibility, and generates actionable plans with deadlines and required documents.
 
 ## Glossary
 
@@ -144,3 +144,4 @@ KARL Simplifies is an AI-powered document companion designed to help students an
 3. WHEN a user answers eligibility questions, THE Frontend SHALL store all responses in the current session
 4. WHEN a user navigates between sections, THE Frontend SHALL maintain all previously entered data
 5. WHEN a user closes the browser or session expires, THE Frontend SHALL clear all stored data (no persistence required)
+
