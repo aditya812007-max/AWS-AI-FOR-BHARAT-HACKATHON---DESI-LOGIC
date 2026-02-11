@@ -35,9 +35,9 @@ KARL Simplifies is an AI-powered document companion that:
 ---
 
 ## 📂 Repository Structure
-├── requirements.md # Functional requirements (WHAT & WHY)
-├── design.md # Technical design (HOW)
-└── README.md # Project overview
+    ├── requirements.md # Functional requirements (WHAT & WHY)
+    ├── design.md # Technical design (HOW)
+    └── README.md # Project overview
 
 ---
 
