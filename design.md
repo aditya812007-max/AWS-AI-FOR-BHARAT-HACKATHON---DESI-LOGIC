@@ -1,11 +1,11 @@
-**Project Name:** KARL Simplifies  
+**Project Name:** Samjhao
 **Team Name:** Desi Logic
 
-# Design Document: KARL Simplifies
+# Design Document: Samjhao
 
 ## Overview
 
-KARL Simplifies is a web-based AI companion that demystifies complex academic and government documents for Indian students and parents. The system leverages Amazon Bedrock for intelligent document analysis, providing simplified explanations, eligibility determination, and actionable next steps—all in the user's preferred language (English, Hindi, or Tamil).
+Samjhao is a web-based AI companion that demystifies complex academic and government documents for Indian students and parents. The system leverages Amazon Bedrock for intelligent document analysis, providing simplified explanations, eligibility determination, and actionable next steps—all in the user's preferred language (English, Hindi, or Tamil).
 
 The architecture follows a client-server model with a stateless backend that orchestrates AI operations. No authentication or persistent storage is required for the MVP, keeping the system simple and accessible.
 
@@ -351,3 +351,4 @@ A property is a characteristic or behavior that should hold true across all vali
 ### Property 9: Responsive Layout Adaptation
 *For any* screen size (mobile, tablet, desktop), the Frontend SHALL adapt layout and text size appropriately without horizontal scrolling.
 **Validates: Requirements 9.1, 9.2, 9.3, 9.4**
+
